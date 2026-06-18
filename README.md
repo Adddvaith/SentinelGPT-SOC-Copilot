@@ -46,7 +46,6 @@ The system processes Windows and Linux security logs, detects suspicious activit
 
 ## Screenshots
 
-(Add screenshots here)
 
 ## Author
 
